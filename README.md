@@ -4,7 +4,12 @@
 # Input
 The voxel carving algorithm in this project works on images obtained of a dinosaur figurine. These images are from the study conducted by Andrew W Fitzgibbon, Geoff Cross and Andrew Zisserman at the University of Oxford. There are around 36 images taken of the dinosaur as it rotates on the turntable. As these images were not taken by me I also used the projection matrix of the camera as an input. All these inputs are present in the input folder.
 
-# Method
+# Output
+The following screenshots demonstrate the carving output and the 3D reconstruction of the object.
+![1](output/1.png)
+![2](output/2.png)
+![3](output/3.png)
+![4](output/4.png)
 
 
 
